@@ -19,3 +19,7 @@ Repositório usado para **Estudos** e **Projetos da Faculdade**
 -🩺[Confirmar consulta com os pacientes](https://github.com/YuriGarciaRibeiro/PROJETOS-PYTHON/tree/main/Confirmar%20consultas)<br>
     - Pandas <br>
     - selenium <br>
+-🩺[Tela Cadastro de paciente e consultas](https://github.com/YuriGarciaRibeiro/PROJETOS-PYTHON/tree/main/Tela%20de%20cadastro%20de%20pacientes)<br>
+    - Tkinter
+    - SQL
+    - POO
